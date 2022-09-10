@@ -1,0 +1,16 @@
+.cor1{ background-color: #ff0000 }
+.cor2{ background-color: #00ff00; }
+.cor3{ background-color: #0000ff; }
+.cor4{ background-color: #ffff00; }
+.cor5{ background-color: #aaaaaa; }
+.cor6{
+    background-color: #000000;
+    color: #ffffff;
+}
+h1{
+    background-color: 	#FFA500;
+    color: #00ffff;
+}
+body{
+    background-image: linear-gradient(to right, #ff0000,#ffa500,#ffff00,#00ff00,#0000ff,#4B0082,#EE82EE	);
+}

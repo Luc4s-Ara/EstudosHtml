@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(rgb(16, 16, 15), transparent, rgb(83, 83, 83));
+}
+
+h1 {
+    color: blueviolet;
+}
+
+p {
+    color: rgb(244, 31, 255);
+}
+
+/* usado pra id */
+#sub2{
+    color: rgb(12, 26, 155);
+    background-color: rgb(204, 20, 158);
+}
+
+/* usado pra classe */
+.h2_1{
+    color: rgb(255, 140, 0);
+}
+.cinza{
+    background-color: gray;
+}
