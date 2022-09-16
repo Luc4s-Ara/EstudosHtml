@@ -1,0 +1,23 @@
+.cor1{ background-color: hsl(0, 100%, 50%)} /* vermelho */
+.cor2{ background-color: hsl(120, 100%, 50%); }/* verde */
+.cor3{ background-color: hsl(240, 100%, 50%); } /* azul */
+.cor4{background-color: hsl(60, 100%, 50%); } /* amarela */
+.cor5{ background-color: hsl(0, 0%, 50%); } /* cinza */
+.cor6{
+    background-color: hsl(0, 0%, 0%); /* preta */
+    color: hsl(0, 0%, 100%); /* branca */
+}
+.cor7{ background-color: hsla(240, 100%, 75%); } /* azul claro */
+.cor8{ 
+    background-color: hsl(240, 100%, 25%);
+    color: hsl(0, 0%, 100%);
+} /* azul escuro */
+
+body{
+    background-image: url(/IMG/computador-em-nuvem-e-armazenamento-de-dados-online-com-software-de-compartilhamento-inteligente-tacito_31965-47576.jpg);
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(280, 100%, 50%);
+}
