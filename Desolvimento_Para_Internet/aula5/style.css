@@ -1,0 +1,28 @@
+body{
+    background-color: hsl(0, 0%, 70%);
+}
+h1{
+    background-color: hsl(240, 100%, 50%);
+    color: hsl(0 , 0%,100%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1:hover{
+    background-color: hsl(203, 89%, 40%);
+}
+.t3{
+    font-size: 1.25rem;
+    background-color: hsl(244, 100%, 50%);
+    width: 50%;
+    height: 50%;
+}
+.t2{
+    background-color: hsl(120, 100%, 25%);
+    height: 18rem; /* height altura */
+    width: 18rem; /* width largura */
+}
+.t1{
+    background-color: hsl(57, 100%, 50%);
+    color: hsl(311, 100%, 50%);
+    width: 40%; /* largura vw */
+    height: 40vh; /* altura vh*/
+}
